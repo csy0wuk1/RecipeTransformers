@@ -12,4 +12,12 @@ tomato
 rice
 seasoning
 turkey
-apple
+salt
+nut
+sugar
+seed
+peanut
+oyster
+flour
+rice
+vinegar

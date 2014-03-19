@@ -68,8 +68,8 @@ def add_cuisine(cuisines, ingred_attr, thrown_list):
 
 def load_knowledge_base(nutritions, cuisines):
     global path
-    nutri_names = ['protein', 'spice', 'vegetables','meat','grain','protein','fruit','fats_oils']
-    cuisine_names = ['french','indian','italian']
+    nutri_names = ['protein', 'spice', 'vegetables','meat','grain','protein','fruit','fats_oils','dairy']
+    cuisine_names = ['french','indian','italian', 'american', 'healthy']
     txt2attr_list(path + 'nutrition categories', nutri_names, nutritions)
     #pprint.pprint(nutritions)
     txt2attr_list(path + 'cuisines', cuisine_names, cuisines)
@@ -83,11 +83,15 @@ def build_table(ingred_attr, nutritions, cuisines, thrown_list):
     print len(ingred_attr), '\n'
     #pprint.pprint(ingred_attr)
 #
+
+
 def learn_ingredients(ingred_attr, nutritions, cuisines, thrown_list):
     load_knowledge_base(nutritions, cuisines)
     build_table(ingred_attr, nutritions, cuisines, thrown_list)
     #pprint.pprint(thrown_list)
 #
+
+
 def naive_transform(from_ingreds, to_cuisine_name, cuisines, ingred_attr, mute = False):
 # Give a valid transformation
     out_list = []
@@ -102,14 +106,19 @@ def naive_transform(from_ingreds, to_cuisine_name, cuisines, ingred_attr, mute =
             out_list.append(ingred)
         else:
             substitute = 'NOT FOUND'
+            min_unique = 10000
             NUTRI = ingred_attr[fromID].nutri
             for cand in target_cuisine:
                 candID = NLPtool.uni_rep(cand)
                 if candID in ingred_attr and \
                         NUTRI.intersection(ingred_attr[candID].nutri) != set() and \
                         cand not in out_list:
-                    substitute = cand
-                    break
+                    uniqueness = len(ingred_attr[candID].cuisine)
+                    # how unique is this ingredient to this cuisine
+                    if uniqueness < min_unique:
+                        substitute = cand
+                        min_unique = uniqueness
+                        if min_unique==1: break
             if substitute == 'NOT FOUND':
                 if not mute:
                     print "Substitue for", ingred, "not found: left unchanged"
@@ -130,6 +139,32 @@ def whatis(ingred):
 #
 
 
+#
+#def nutri_guesser():
+#
+
+
+#
+def common_words(dictionary, frequency_thres):
+    # split and count:
+    counter = {}
+    for key in dictionary:
+        words = key.split()
+        for word in words:
+            if word not in counter:
+                counter[word] = 0
+            counter[word] += 1
+    # Then find the top N:
+    top = []
+    for word in counter:
+        if counter[word] >= frequency_thres:
+            top.append(word)
+    # Print to file:
+    with open('frequent.txt', 'w') as f:
+        for word in top:
+            f.write(word + '\n')
+#
+
 
 # ENTRY POINT
 path = '.\\'     # CHANGE HERE if path for data folders are changed
@@ -138,10 +173,11 @@ cuisines = {}
 ingred_attr = {}
 thrown_list = []
 learn_ingredients(ingred_attr, nutritions, cuisines, thrown_list)
+common_words(ingred_attr, 10)
 print naive_transform(['pork','lamb','salt','deep south dry rub'], 'french', cuisines, ingred_attr)
 print ''
 print naive_transform(['skinless, boneless chicken breasts', 'garlic', \
                         'balsamic vinegar', 'chicken broth', 'mushrooms', \
                         'all-purpose flour', 'olive oil', 'butter', \
-                        'dried thyme', 'bay leaf'], 'french', cuisines, ingred_attr)
+                        'dried thyme', 'bay leaf'], 'american', cuisines, ingred_attr)
 
