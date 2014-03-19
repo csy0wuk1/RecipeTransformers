@@ -1,0 +1,438 @@
+aceto
+aceto balsamico
+affettato
+aglio
+agnolotti
+agrumi
+albicocca
+alchermes
+alloro
+almonds
+amarena
+amaretti
+amaro
+anatra
+anchovies
+animelle
+anise
+anisette
+aperitivo
+aragosta
+arancia
+arborio rice
+aromi
+artichokes
+arugula
+asaparagi
+asiago
+asiago cheese
+aubergine
+baccala
+bacon
+bagnet
+balsamic vinegar
+barbabietole
+barbatietole
+basil
+basilico
+battuta
+bavette
+bay leaves
+beciamella
+beets
+bel paese
+bell pepper
+bietola
+biga
+bigoli
+biscotti
+black pepper mill
+boccon
+bocconcini
+borlotti beans
+bottarga
+bovolo
+branzino
+bresaola
+broccoli rabe
+brocoletti
+brodetto
+brodo
+bucatini
+burro
+butter
+butternut squash
+caciocavallo
+calamari
+canella
+canerderli
+cannellini beans
+cannelloni
+cantucci
+capelli d'angelo
+cappellacci
+capperi
+capra
+caprini
+capsicum
+carciofi
+cardi
+carne
+carota
+carrot
+castagne
+cavalo
+cavatelli
+cavolfiore
+ceci
+celery
+chicken bouillon
+chickpeas
+chitarrine
+cicoria di campo
+cima di rape
+cinghiale
+cioccolata
+cipolle
+clams
+cockles
+concentrato o purea di pomodoro
+conchigle
+confectioner's sugar
+confettura
+coniglio
+coppa
+cordial
+cornflour
+cornmeal
+costoletta
+cotechino
+courgette
+couscous
+cozze
+crema
+crescenza
+crespelle
+crostata
+dado
+dandelion
+diavolillo
+digestivo
+ditalini
+dragoncello
+dry marsala wine
+eggplant
+endives
+erba cipollina
+espresso
+estratto
+fagiano
+fagioli
+fagiolini
+faraona
+farfalle
+farina
+farro
+fava
+fazzoletti
+fecola
+fegato
+fennel
+fettuccine
+fico
+filberts
+filletti di acciughe
+fine salt
+finocchiella
+finocchio
+fiore di latte
+fonduta
+fontina
+fragola
+friselle
+frutta di bosco
+funghi
+fusilli
+gallina
+gamberetti
+garbanzo beans
+garbanzos
+garganelli
+garlic
+gelatina
+gelato
+gemelli
+gnocchi
+gorgonzola
+grana
+granchio
+granita
+grappa
+guanciale
+hazelnuts
+icing sugar
+indivia
+insalata
+involtini
+italian parsley
+italian sausage
+ladyfingers
+lampone
+lardo
+lasagna
+latte
+lattuga
+leavening agents
+lemons
+lenticchie
+lentils
+limone
+liquori
+lonza
+luganega
+lumache
+maile
+maionese
+malloreddus
+mandorle
+manicotti
+manzo
+marjoram
+marsala wine
+marzapane
+mascarpone
+mela
+melanzane
+melograna
+melone
+menta
+miele
+mirtillo
+moleca
+mortadella
+moscato wine
+mostarda
+mostarda di cremona
+mosto di vino
+mozzarella
+mushrooms
+mussels
+noci
+nocino
+nociole
+nutella
+nutmeg
+oca
+octopus
+odori
+olio di olive
+olio santo
+olive
+olive oil
+olives
+onion
+orange
+orata
+orecchiette
+oregano
+origano
+orzo
+ostrica
+paglia e fieno
+pagnotta
+palliard
+palombo
+pan al latte
+pan bigio
+pan con uva
+pan di ramerino
+pan di spagna
+pancetta
+pane grattugiato
+panettone
+panforte
+panino
+panna
+papparadelle
+parmesan cheese
+parmigiano
+parmigiano reggiano
+parsley
+passata
+passatelli
+pasta frolla
+pasta grattugiata
+pasta sgogliata
+pasta verde
+pastella
+pastina
+patate
+peas
+pecorino
+pelati
+penne
+pepato
+pepe nero
+peperoncini
+peperoncino
+peperoni
+pera
+perciatelli
+persico
+pesca
+pesce spada
+pesciolini
+pesto
+piadine
+piccione
+pici
+pignoli
+pine nuts
+pinoli
+piselli
+pistacchio
+pizza
+pizza dolce
+pizza rustica
+pizzoccheri
+polenta
+polipi
+pollo
+polpetone
+polpetta
+pommarola
+pomodori
+pompelmo
+porchetta
+porcini
+porro
+powdered sugar
+prezzemolo
+prosciutto
+provolone
+prugna
+puntarelle
+quadrucci
+quaglia
+quinquinelle
+rabarbaro
+radicchio
+radicchio 
+ragu
+rana
+rape
+red peppers
+ribes
+riccio di mare
+ricotta
+ricotta salata
+rigatoni
+riso
+risotto
+robiola
+rocket
+rognone
+rosemary
+rosmarino
+rosolio
+rotolo
+rucola
+saffron
+sage
+salami
+sale
+salmone
+salmoriglio
+salsa
+salsiccia
+salumi
+salvia
+sambuca
+sarde
+savoiardi
+scalogno
+scaloppina
+scamorza
+scampi
+scarola
+schiacciata
+scotch bonnet pepper
+scungilli
+sea salt
+sedano
+segale
+semi di sesamo
+semolina
+seppia
+shallots
+shrimp
+soffritto
+soglia
+soppressa
+sorbetto
+sott'olio
+sottaceto
+spaghetti
+spalla
+spatzle
+speck
+spelt
+spezzatino
+spinach
+spinachi
+spremuta
+spring onion
+spugnole
+squash
+stigghiole
+stracchino
+strangolapreti
+strega
+stringozzi
+strutto
+sugo
+sun-dried tomatoes
+swordfish
+tacchino
+tagliatelle
+taleggio
+tangelo
+tartufo
+timo
+tomato sauce
+tomatoes
+tonnarelli
+tonno
+tortelli
+tortellini
+tortiglioni
+toscanelli
+trenette
+triglia
+trippa
+troccoli
+trota
+tuna
+uccelletto
+unsalted butter
+uva
+uva passa
+uvo
+vaniglia
+vedura
+vermicelli
+vermouth
+verza
+vin santo
+vinegar
+virgin olive oil
+vitello
+vongole
+walnuts
+zafferino
+zampone
+ziti
+zucca
+zucchero
+zucchini
+﻿abbacchio & agnello

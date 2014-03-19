@@ -1,0 +1,15 @@
+beef
+chicken
+lamb
+pork
+fish
+yogurt
+cheese
+milk
+egg
+potato
+tomato
+rice
+seasoning
+turkey
+apple

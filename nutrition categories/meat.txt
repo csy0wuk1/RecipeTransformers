@@ -1,0 +1,210 @@
+bear
+beef
+beef brisket flat half boneless
+beef brisket point half boneless
+beef chuck 7-bone pot roast
+beef chuck 7-bone steak
+beef chuck arm pot roast
+beef chuck arm steak
+beef chuck blade roast
+beef chuck blade steak
+beef chuck cross rib pot roast
+beef chuck eye roast boneless
+beef chuck eye steak boneless
+beef chuck flanken-style ribs
+beef chuck mock tender
+beef chuck short ribs
+beef chuck shoulder pot roast boneless
+beef chuck shoulder steak boneless
+beef chuck top blade pot roast
+beef chuck top blade roast boneless
+beef chuck top blade steaks boneless
+beef chuck under blade pot roast
+beef chuck under blade pot roast boneless
+beef chuck under blade steak boneless
+beef chuck under blade streak
+beef cubed steak
+beef flank steak
+beef flank steak rolls
+beef for stew
+beef heart
+beef liver
+beef loin flat bone sirloin steak
+beef loin pin bone sirloin steak
+beef loin porterhouse steak
+beef loin round bone sirloin steak
+beef loin shell sirloin steak
+beef loin sirloin steak boneless
+beef loin t-bone steak
+beef loin tenderloin roast
+beef loin tenderloin steak (filet mignon)
+beef loin top loin steak
+beef loin top loin steak boneless
+beef loin top sirloin steak boneless
+beef loin wedge bone sirloin steak
+beef plate skirt steak boneless
+beef plate skirt steak rolls boneless
+beef rib eye roast
+beef rib eye steak
+beef rib roast large end
+beef rib roast small end
+beef rib steak small end
+beef rib steak small end boneless
+beef round bottom round roast
+beef round bottom rump round roast
+beef round cubes for kabobs
+beef round eye round roast
+beef round eye round steaks
+beef round heel of round
+beef round rump roast
+beef round rump roast boneless
+beef round steak
+beef round tip roast
+beef round tip roast cap off
+beef round tip steak cap off
+beef round top round roast
+beef round top round steak
+beef shank cross cuts
+beef tongue
+bone soup from allowable meats
+buffalo, bison
+calf liver
+caribou
+chicken
+chicken 8-piece cut
+chicken boneless, skinless breast
+chicken boneless, skinless leg
+chicken boneless, skinless thigh
+chicken breast quarters
+chicken drumsticks
+chicken halves
+chicken leg
+chicken liver
+chicken split breast
+chicken split breast without back
+chicken thigh
+chicken wing
+chicken wing mid section
+chicken wing mid section with tip
+cornish game hen
+duck
+duck liver
+emu
+fresh side pork
+gizzards
+goat
+goose
+goose liver
+ground beef
+ground lamb
+ground pork
+ground veal
+grouse
+guinea hen
+ham
+horse
+kangaroo
+lamb
+lamb breast
+lamb breast riblets
+lamb for stew
+lamb leg american-style roast
+lamb leg frenched-style roast
+lamb leg shank half
+lamb leg sirloin chops
+lamb leg whole
+lamb loin chops
+lamb loin double chops
+lamb loin double chops boneless
+lamb rib chops
+lamb rib crown roast
+lamb rib roast
+lamb shank
+lamb shoulder arm chops
+lamb shoulder blade chops
+lamb shoulder neck slices
+lamb shoulder square cut whole
+liver
+marrow soup
+moose
+mutton
+opossum
+organ meats
+organs
+ostrich
+partridge
+pheasant
+pork
+pork cubed steaks
+pork cubes for kabobs
+pork hocks
+pork leg (fresh ham) shank portion
+pork leg (fresh ham) whole
+pork loin back ribs
+pork loin blade chops
+pork loin blade roast
+pork loin butterfly chops
+pork loin center loin roast
+pork loin center rib roast
+pork loin chops
+pork loin country-style ribs
+pork loin rib chops (center cut chops)
+pork loin sirloin chops
+pork loin sirloin cutlets
+pork loin sirloin roast
+pork loin tenderloin whole
+pork loin top loin chops
+pork loin top loin roast boneless (double)
+pork shoulder arm picnic
+pork shoulder arm roast
+pork shoulder arm steak
+pork shoulder blade (boston) roast
+pork shoulder blade steak
+pork spareribs
+pork, bacon
+quail
+rabbit
+sausage links
+slab bacon
+sliced bacon
+smoked ham center slice
+smoked ham rump portion
+smoked ham shank portion
+smoked ham whole
+smoked pork hocks
+smoked pork loin canadian-style bacon
+smoked pork loin chops
+smoked pork loin rib chops
+smoked pork shoulder picnic whole
+smoked pork shoulder roll
+snake
+squab
+squirrel
+sweetbreads
+tripe
+turkey
+turtle
+veal
+veal breast
+veal breast riblets
+veal cubed steaks
+veal cutlets
+veal for stew
+veal leg round roast
+veal leg round steak
+veal leg rump roast
+veal leg sirloin roast
+veal leg sirloin steak
+veal loin chops
+veal loin kidney chops
+veal loin roast
+veal loin top loin chops
+veal rib chops
+veal rib crown roast
+veal rib roast
+veal shoulder arm roast
+veal shoulder arm steak
+veal shoulder blade roast
+veal shoulder blade steak
+venison
+whole chicken
